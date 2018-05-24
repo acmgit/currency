@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-24 22:01+0200\n"
-"PO-Revision-Date: 2018-05-24 22:18+0200\n"
+"PO-Revision-Date: 2018-05-24 22:41+0200\n"
 "Last-Translator: A.C.M. <undertakers_help@yahoo.com>\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -96,7 +96,7 @@ msgstr "Kreativmodus eingeschalten, überspringe Grundeinkommen."
 
 #: init.lua
 msgid "Income Loaded!"
-msgstr "Inkome geladen!"
+msgstr "Income geladen!"
 
 #: safe.lua
 msgid "Safe"
@@ -124,7 +124,7 @@ msgstr "@1 nimmt Gegenstände aus Safe bei @2"
 
 #: shop.lua
 msgid "Customer gives (pay here!)"
-msgstr "Kunde gibt (zahl hier!)"
+msgstr "Kunde gibt (bezahl hier!)"
 
 #: shop.lua
 msgid "Customer gets:"
