@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-24 22:01+0200\n"
-"PO-Revision-Date: 2018-05-24 22:41+0200\n"
+"PO-Revision-Date: 2018-05-24 22:48+0200\n"
 "Last-Translator: A.C.M. <undertakers_help@yahoo.com>\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -32,7 +32,7 @@ msgstr "Abbruch"
 
 #: barter.lua shop.lua
 msgid "Exchange"
-msgstr "Wechseln"
+msgstr "Tausch"
 
 #: barter.lua
 msgid "Barter Table"
@@ -152,7 +152,7 @@ msgstr "Du willst:"
 
 #: shop.lua
 msgid "In exchange, you give:"
-msgstr "Im Wechsel, du gibst:"
+msgstr "Im Tausch, du gibst:"
 
 #: shop.lua
 msgid "Owner, Use (E)+Place (right mouse button) for customer interface"
